@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-savp&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-savp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat" alt="DavidDuarteC" /> </p>
 
-- 🔭 I’m currently working on [my Thesis with Alianza Caoba. This institution is the Center of excellence and appropriation in Big Data and Data Analytics. The thesis is based on a cloud microservices architecture](https://www.alianzacaoba.co/)
+- 🔭 I’m currently working on [my Thesis. It is a video game that tries to help system engineers by providing techniques to get over frustration.]
 
-- 🌱 I’m currently learning *Amazon Web Services*
+- 🌱 I’m currently learning *Managment DB2*
 
-- 👨‍💻 All of my projects and things I like working on are available at [https://github.com/pablo-savp](https://github.com/pablo-savp)
+- 👨‍💻 All of my projects and things I like working on are available at [https://github.com/DavidDuarteC](https://github.com/DavidDuarteC)
 
-- 📫 How to reach me *santanderalvarez.pablo@gmail.com*
+- 📫 How to reach me *davidduartec7@gmail.com*
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pablo-s-ab6053139/](https://www.linkedin.com/in/pablo-s-ab6053139/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/david-duarte-871a0b212](https://www.linkedin.com/in/david-duarte-871a0b212)
 
-- ⚡ Facts *I love going to the gym at least 4 times a week and then chilling to music and programming.*
+- ⚡ Facts *I love going to the gym at least 6 times a week and then chilling to music and programming.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
