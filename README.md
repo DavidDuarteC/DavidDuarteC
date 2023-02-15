@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my Thesis. It is a video game that tries to help system engineers by providing techniques to get over frustration.]
 
-- 🌱 I’m currently learning *Managment DB2*
+- 🌱 I’m currently learning *Management DB2*
 
 - 👨‍💻 All of my projects and things I like working on are available at [https://github.com/DavidDuarteC](https://github.com/DavidDuarteC)
 
