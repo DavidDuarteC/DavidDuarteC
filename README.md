@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -62,12 +62,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Unity_2021.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&locale=en" alt="DavidDuarteC" /></p>
