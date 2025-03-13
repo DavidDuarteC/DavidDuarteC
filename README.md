@@ -62,12 +62,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Unity_2021.svg" alt="unity" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo_white.svg" alt="unity" width="40" height="40" style="background-color: black; border-radius: 5px;"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40"/>
   </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
