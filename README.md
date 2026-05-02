@@ -56,7 +56,7 @@ Gym 6x/week 💪 + coding + music 🎧
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,nodejs,react,nextjs,angular,dotnet,spring,aws,gcp,azure,docker,kubernetes,mongodb,mysql,firebase,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,nodejs,react,nextjs,angular,dotnet,spring,n8n,aws,gcp,azure,docker,kubernetes,mongodb,mysql,firebase,git,github,postman,figma" />
 </p>
 
 ---
@@ -64,14 +64,17 @@ Gym 6x/week 💪 + coding + music 🎧
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDuarteC&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDuarteC&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 ---
 
-### 🔥 Streak Stats (fixed)
+### 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DavidDuarteC&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DavidDuarteC&theme=tokyonight&hide_border=true"/>
 </p>
