@@ -1,53 +1,85 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Software Developer focused on building scalable systems and automation</h3>
+<h1 align="center">Hi 👋, I'm David Duarte</h1>
+<h3 align="center">Systems Engineer | Cloud & Backend Developer | Automation & AI Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat" alt="DavidDuarteC" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Systems Engineer from Colombia  
-- 🔭 Currently building my **thesis project**: a video game designed to help developers manage frustration and improve emotional control  
-- 🤖 Currently learning **n8n**, automation workflows, and **AI agents (design, orchestration, and practical use cases)**  
-- 🌱 Improving my front-end skills with **Next.js**  
-- 💡 Interested in **backend development, cloud computing, and intelligent systems**  
+- 🎓 Systems Engineer based in Colombia  
+- 🔭 Currently working as a **Systems Integration Specialist** building scalable integrations and automations  
+- 🤖 Learning **n8n, AI agents, and workflow orchestration (tools, memory, real-world use cases)**  
+- ☁️ Experience designing and deploying solutions in **AWS, GCP, and Azure**  
+- 🧩 Strong background in **system integration, backend development, and incident handling**  
 
 ---
 
-### 🧠 What I'm focused on right now  
-- Building **automations with n8n**  
-- Understanding how **AI agents work (tools, memory, orchestration)**  
-- Combining **software engineering + AI** to create real-world solutions  
+### 🧠 Current Focus  
+- Building **automation workflows with n8n**  
+- Designing **AI-powered systems and agents**  
+- Combining **cloud + backend + automation** to solve real problems  
 
 ---
 
-### 👨‍💻 Projects & Work  
-Check out what I’m building and experimenting with:  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DavidDuarteC)  
+### 💼 Experience Highlights  
+- ⚙️ Built integrations between **Google Sheets, PostgreSQL, and cloud services (Cloud Functions, Cloud Run)**  
+- 🔄 Developed **data pipelines and automations with Python & JavaScript**  
+- ☁️ Worked with **distributed cloud architectures and scalable systems**  
+- 🛠️ Experience in **incident handling, SLA management, and technical troubleshooting (Huawei L2 Support)**  
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 💻 Languages  
+`Java` `Python` `JavaScript` `TypeScript` `C#` `SQL` `C++`
+
+#### ⚙️ Backend & Databases  
+`Node.js` `Spring Boot` `.NET` `Firebase` `MySQL` `MongoDB` `PostgreSQL`
+
+#### 🌐 Frontend  
+`Angular` `Next.js` `React` `Bootstrap`
+
+#### ☁️ Cloud & DevOps  
+`AWS` `Azure` `GCP` `Kubernetes` `REST APIs` `SOAP` `Airflow`
+
+#### 🔄 Automation & AI  
+`n8n` `AI Agents` `Workflow Orchestration`
+
+#### 🛠️ Tools  
+`Git` `GitHub` `Postman` `Jenkins` `Unity` `Figma`
+
+---
+
+### 📂 Projects  
+Check out my work here 👇  
+👉 https://github.com/DavidDuarteC  
 
 ---
 
 ### 📫 Contact  
 - 📧 **davidduartec7@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-duarte-871a0b212)  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/david-duarte-871a0b212  
 
 ---
 
 ### ⚡ Fun Fact  
-I train at the gym **6 times a week**, then recharge with music and coding 💻🎧  
-
----
-
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,java,cs,python,aws,firebase,figma,jenkins" />
-</p>
+I train at the gym **6 times a week** and enjoy combining discipline with coding 💪💻  
 
 ---
 
 ### 📊 GitHub Stats  
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&locale=en" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDuarteC&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDuarteC&layout=compact&theme=tokyonight" />
 </p>
