@@ -1,85 +1,77 @@
 <h1 align="center">Hi 👋, I'm David Duarte</h1>
-<h3 align="center">Systems Engineer | Cloud & Backend Developer | Automation & AI Enthusiast</h3>
+<h3 align="center">Systems Engineer | Backend & Cloud | Automation & AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/DavidDuarteC">
+    <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Systems Engineer based in Colombia  
-- 🔭 Currently working as a **Systems Integration Specialist** building scalable integrations and automations  
-- 🤖 Learning **n8n, AI agents, and workflow orchestration (tools, memory, real-world use cases)**  
-- ☁️ Experience designing and deploying solutions in **AWS, GCP, and Azure**  
-- 🧩 Strong background in **system integration, backend development, and incident handling**  
+- 🎓 Systems Engineer based in Bogotá, Colombia  
+- 💼 Experience in **systems integration, cloud engineering, and technical support (L2)**  
+- 🔭 Currently working on my **thesis project** (Unity video game for emotional management)  
+- 🤖 Learning **n8n, workflow automation, and AI agents (tools, orchestration, real-world use cases)**  
+- ☁️ Hands-on with **AWS, GCP, Azure** building scalable and automated solutions  
+- 💡 Strong focus on **backend development, integrations, and distributed systems**  
 
 ---
 
 ### 🧠 Current Focus  
-- Building **automation workflows with n8n**  
-- Designing **AI-powered systems and agents**  
-- Combining **cloud + backend + automation** to solve real problems  
+- Building **automations with n8n**  
+- Designing **AI agents with tools + memory + workflows**  
+- Creating **data pipelines and integrations (APIs, databases, cloud services)**  
+- Improving **cloud architecture skills**  
 
 ---
 
 ### 💼 Experience Highlights  
-- ⚙️ Built integrations between **Google Sheets, PostgreSQL, and cloud services (Cloud Functions, Cloud Run)**  
-- 🔄 Developed **data pipelines and automations with Python & JavaScript**  
-- ☁️ Worked with **distributed cloud architectures and scalable systems**  
-- 🛠️ Experience in **incident handling, SLA management, and technical troubleshooting (Huawei L2 Support)**  
+- ⚙️ Automated workflows integrating **Google Sheets + PostgreSQL + Cloud Functions + Cloud Run**  
+- 🔗 Built **data pipelines with Python**, reducing manual work and improving consistency  
+- ☁️ Designed **scalable cloud solutions** across AWS, GCP, and Azure  
+- 🛠️ Experience in **incident management (L2 support, SLA handling, troubleshooting)**  
+- 🌐 Developed **full-stack applications** with Angular, .NET, and Firebase  
 
 ---
 
-### 🛠️ Tech Stack  
-
-#### 💻 Languages  
-`Java` `Python` `JavaScript` `TypeScript` `C#` `SQL` `C++`
-
-#### ⚙️ Backend & Databases  
-`Node.js` `Spring Boot` `.NET` `Firebase` `MySQL` `MongoDB` `PostgreSQL`
-
-#### 🌐 Frontend  
-`Angular` `Next.js` `React` `Bootstrap`
-
-#### ☁️ Cloud & DevOps  
-`AWS` `Azure` `GCP` `Kubernetes` `REST APIs` `SOAP` `Airflow`
-
-#### 🔄 Automation & AI  
-`n8n` `AI Agents` `Workflow Orchestration`
-
-#### 🛠️ Tools  
-`Git` `GitHub` `Postman` `Jenkins` `Unity` `Figma`
-
----
-
-### 📂 Projects  
-Check out my work here 👇  
+### 👨‍💻 Projects  
+Check what I’m building:  
 👉 https://github.com/DavidDuarteC  
 
 ---
 
 ### 📫 Contact  
-- 📧 **davidduartec7@gmail.com**  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/david-duarte-871a0b212  
+- 📧 davidduartec7@gmail.com  
+- 💼 https://www.linkedin.com/in/david-duarte-871a0b212  
 
 ---
 
 ### ⚡ Fun Fact  
-I train at the gym **6 times a week** and enjoy combining discipline with coding 💪💻  
+Gym 6x/week 💪 + coding + music 🎧  
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,nodejs,react,nextjs,angular,dotnet,spring,aws,gcp,azure,docker,kubernetes,mongodb,mysql,firebase,git,github,postman,figma" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidDuarteC&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDuarteC&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDuarteC&theme=tokyonight" />
-</p>
+---
+
+### 🔥 Streak Stats (fixed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDuarteC&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DavidDuarteC&theme=tokyonight&hide_border=true"/>
 </p>
