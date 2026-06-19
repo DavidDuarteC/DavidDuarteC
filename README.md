@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Duarte</h1>
 <h3 align="center">Systems Engineer | Backend & Cloud | Automation & AI</h3>
 
-<p align="center">
+<<p align="center">
   <a href="https://github.com/DavidDuarteC">
-    <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat&logo=github&logoColor=white" 
+    <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20Views&color=0e75b6&style=plastic" 
          alt="Profile views" 
-         width="250" 
-         height="30" />
+         width="400" 
+         height="50"
+         style="display: block; margin: 0 auto;" />
   </a>
 </p>
 
