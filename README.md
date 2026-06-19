@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/DavidDuarteC">
-    <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat" 
+    <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20views&color=0e75b6&style=flat&logo=github&logoColor=white" 
          alt="Profile views" 
-         width="200" 
-         height="auto" />
+         style="width: 250px; height: auto;" />
   </a>
 </p>
 
