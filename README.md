@@ -5,9 +5,12 @@
   <a href="https://github.com">
     <img src="https://komarev.com" 
          alt="Profile views" 
+         width="500" 
+         height="60"
          style="display: block; margin: 0 auto;" />
   </a>
 </p>
+
 
 
 <p align="center">
