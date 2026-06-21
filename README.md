@@ -2,14 +2,13 @@
 <h3 align="center">Systems Engineer | Backend & Cloud | Automation & AI</h3>
 
 <p align="center">
-  <a href="https://github.com/DavidDuarteC">
-    <img src="https://komarev.com/ghpvc/?username=DavidDuarteC&label=Profile%20Views&color=0e75b6&style=plastic" 
+  <a href="https://github.com">
+    <img src="https://komarev.com" 
          alt="Profile views" 
-         width="200" 
-         height="25"
          style="display: block; margin: 0 auto;" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/DavidDuarteC"><img src="https://img.shields.io/badge/GitHub-@DavidDuarteC-black?logo=github&style=flat-square"/></a>
